@@ -7,8 +7,9 @@
   "author": "Paul Wittmann <paul@railslove.com>",
   "version": "0.1.0",
   "devDependencies": {
-    "grunt": "~0.3.0",
+    "grunt": "~0.4.0rc5",
     "grunt-haml": "~0.3.0",
-    "grunt-contrib-coffee": "~0.3.2"
+    "grunt-contrib-coffee": "git+ssh://git@github.com:gruntjs/grunt-contrib-coffee.git#2a867a1377",
+    "grunt-contrib-clean": "~0.4.0rc5"
   }
 }
