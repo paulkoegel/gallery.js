@@ -1,0 +1,14 @@
+{
+  "name": "gallery.js",
+  "description": "Gallery.js",
+  "keywords": [
+    "gallery.js"
+  ],
+  "author": "Paul Wittmann <paul@railslove.com>",
+  "version": "0.1.0",
+  "devDependencies": {
+    "grunt": "~0.3.0",
+    "grunt-haml": "~0.3.0",
+    "grunt-contrib-coffee": "~0.3.2"
+  }
+}
